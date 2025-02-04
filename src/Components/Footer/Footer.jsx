@@ -21,7 +21,7 @@ const Footer = () => {
         </div> */}
         <hr />
         <div className="footer-bottom">
-            <p className="footer-bottom-left">@ 2024 Vincent Munywoki. All rights reserved.</p>
+            <p className="footer-bottom-left">@ 2025 Vincent Munywoki. All rights reserved.</p>
             <div className="footer-bottom-right">
             <a className='anchor-link' href="#"><p>Term of services</p></a>
                 <a className='anchor-link' href="#"><p>Privacy policy</p></a>
